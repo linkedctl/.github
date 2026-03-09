@@ -1,3 +1,5 @@
+![LinkedCtl: The Complete CLI & MCP for LinkedIn](assets/social-preview.png)
+
 [![GitHub Repo stars](https://img.shields.io/github/stars/alexey-pelykh/linkedctl?style=flat&logo=github)](https://github.com/alexey-pelykh/linkedctl)
 [![License](https://img.shields.io/github/license/alexey-pelykh/linkedctl)](https://www.gnu.org/licenses/agpl-3.0.txt)
 [![CI](https://img.shields.io/github/check-runs/alexey-pelykh/linkedctl/main)](https://github.com/alexey-pelykh/linkedctl/actions/workflows/ci.yml)
